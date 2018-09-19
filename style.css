@@ -1,0 +1,12 @@
+.btn {
+    display: block;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+.btn-container {
+    margin: 2em;
+    width: 200px;
+    display: flex;
+    flex-flow: column nowrap;
+}
